@@ -1,0 +1,35 @@
+{
+    "navegadores":[
+
+{
+
+"id": 1,
+"nombre": "google Chrome",
+"porcentaje": "57.3"
+},
+
+{
+
+   "id": 2,
+   "nombre": "safari",
+    "porcentaje": "13.5"
+    },
+   
+   {
+
+       "id": 3,
+       "nombre": "internet explorer",
+        "porcentaje": "6.8"
+       },
+       {
+
+           "id": 4,
+           "nombre": "Mozila firefox",
+            "porcentaje": "6.6"
+           }
+                   
+
+
+       ]
+}
+
